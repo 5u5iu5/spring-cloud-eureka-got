@@ -3,10 +3,10 @@ Simple application on Microservices with Spring Cloud Eureka. Example based on t
 
 URL test on local
 
-(Simple microservice)
+Simple microservice
 http://localhost:8080/microservicestring/valarmorghulis
 
-(Simple microservices with Circuit Breaker and Heystrix)
+Simple microservices with Circuit Breaker and Heystrix
 http://localhost:8080/locator/
 http://localhost:8080/locator/anyonelive
 
