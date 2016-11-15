@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: microservicestring
+  cloud:
+    config:
+      enabled: true
+      uri: http://user:jontambienmola@localhost:8888
