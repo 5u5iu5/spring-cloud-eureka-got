@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: configserver
+  config:
+    name: configserver 
+  cloud:
+    config:
+      enabled: true
+encrypt:
+   key: valardohaeris
+#  failOnError: false
+#  keyStore:
+#    location: classpath:server.jks
+#    password: ${KEYSTORE_PASSWORD:s3cret} # don't use a default in production
+#    alias: test
+    
